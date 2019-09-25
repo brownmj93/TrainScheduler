@@ -1,0 +1,40 @@
+
+#schedule-table th,
+td {
+  display: inline-block;
+  width: 16.575%;
+}
+body {
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    background-color: #DFDCE3;
+    
+}
+.jumbotron {
+    background-color: #4ABDAC;
+}
+.card-header {
+    background-color: #F7B733;
+}
+
+#scheduleDisplay {
+
+    padding: 5px;
+}
+
+#inputSection {
+
+    text-align: left;
+    padding: 5px;
+    margin-top: 10px;
+    
+}
+
+#addTrain {
+
+    width: auto;
+}
